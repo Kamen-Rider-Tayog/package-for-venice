@@ -5,7 +5,7 @@ const catSVGs = [
     'assets/Sleepy Cat.svg'
 ];
 
-const SECONDS_PER_CAT = 2;
+const SECONDS_PER_CAT = 1;
 const TOTAL_DURATION = catSVGs.length * SECONDS_PER_CAT * 1000;
 const CHANGE_INTERVAL = SECONDS_PER_CAT * 1000;
 
